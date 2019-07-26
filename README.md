@@ -1,2 +1,2 @@
 # hello-world
-follow step
+follow steps of Github guides
